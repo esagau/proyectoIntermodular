@@ -1,0 +1,19 @@
+site_name: Proyecto Intermodular
+site_author: Ester Agustí
+site_description: Documentació sobre llenguatge SQL
+docs_dir: md
+site_dir: docs
+
+nav:
+  - Introducció: index.md
+  - Llenguatge SQL. Consultes:
+      - Consultes de selecció simples: apartat1.md
+      - Consultes de selecció complexes: apartat2.md
+  - Altres Elements: altreselements.md
+
+theme: material
+extra_css:
+  - extra.css
+
+markdown_extensions:
+  - admonition
