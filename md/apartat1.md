@@ -12,9 +12,9 @@ Una vegada comprovada l’eficiència del model relacional i del llenguatge SQL,
 
 El llenguatge SQL va evolucionar (cada marca comercial seguia el seu propi criteri) fins que els principals organismes d’estandardització hi van intervenir per obligar els diferents SGBD relacionals a implementar una versió comuna del llenguatge i, així, el 1986 l’ANSI (American National Standards Institute) publica l’estàndard SQL-86, que el 1987 és ratificat per l’ISO (Organització Internacional per a la Normalització, o International Organization for Standardization en anglès).
 
-La taula [1.1](#Taula) presenta les diferents revisions de l’estàndard SQL que han aparegut des de 1986. No ens cal saber què ha aportat cada revisió, sinó que aquestes revisions han existit.
+La taula [1.1](#taula) presenta les diferents revisions de l’estàndard SQL que han aparegut des de 1986. No ens cal saber què ha aportat cada revisió, sinó que aquestes revisions han existit.
 
-###### Taula 1.1 Revisions de l'ensàndard SQL { #Taula }
+###### Taula 1.1 Revisions de l'ensàndard SQL { #taula }
 
 |  Any | Revisió | Àlies | Comentaris |
 | :--- |   :---  | :---  |    :---    | 

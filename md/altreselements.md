@@ -13,7 +13,7 @@
 
 [Descarrega ací](http://www.mysql.com/) MySQL Workbench
 
-![Instal·lació de MySQL i MySQL Workbench. Pas 1](/img1.jpg)
+![Instal·lació de MySQL i MySQL Workbench. Pas 1](img/img1.jpg)
 
 !!!note "Anotació"
     Esto es una prova de nota.

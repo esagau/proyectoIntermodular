@@ -13,7 +13,7 @@ nav:
 
 theme: material
 extra_css:
-  - extra.css
+  - css/extra.css
 
 markdown_extensions:
   - admonition
